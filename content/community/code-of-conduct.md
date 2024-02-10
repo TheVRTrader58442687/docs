@@ -103,6 +103,6 @@ If you notice a community member displaying examples of behaviour that are not t
 We strive to maintain the anonymity and confidentiality of all individuals involved in an incident report. However, there may be cases where our team may ask permission to identify the individual(s) involved to gather the complete and accurate information needed. 
 
 ## Modifications to these guidelines 
-Codewars and Andela may amend the guidelines occasionally and vary the procedures set out where appropriate in a particular case.
+Codewars and <replacement> may amend the guidelines occasionally and vary the procedures set out where appropriate in a particular case.
 
 Your agreement to comply with the guidelines will be deemed agreement to any changes. 
